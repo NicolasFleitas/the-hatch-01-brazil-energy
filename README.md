@@ -1,6 +1,8 @@
 # ⚡ Optimización Energética para Data Center en Brasil
-
-Este proyecto corresponde a la segunda fase del primer desafío de la etapa **The Hatch**. El objetivo es analizar el histórico de consumo eléctrico nacional en Brasil para determinar la ubicación geográfica óptima y la mejor ventana de mantenimiento para un nuevo Centro de Datos, basándonos en la disponibilidad y estabilidad de la red pública.
+## 🌐 Visualización Interactiva
+* **Ejecución en vivo:** [Ver el Notebook interactivo en Kaggle](https://www.kaggle.com/code/nicolasfleitas/optimizacion-energia-data-center-brasil)
+* **Mi Perfil:** [Conecta conmigo en Kaggle](https://www.kaggle.com/nicolasfleitas)
+Este proyecto corresponde a la segunda fase del primer desafío de la etapa **The Hatch** en Penguin Academy. El objetivo es analizar el histórico de consumo eléctrico nacional en Brasil para determinar la ubicación geográfica óptima y la mejor ventana de mantenimiento para un nuevo Centro de Datos, basándonos en la disponibilidad y estabilidad de la red pública.
 
 ## 🎯 Objetivos del Proyecto
 * Trabajar con datos de series temporales para identificar estacionalidades y tendencias macroeconómicas.
@@ -20,6 +22,6 @@ Este proyecto corresponde a la segunda fase del primer desafío de la etapa **Th
 
 ## 🚀 Cómo ejecutar este proyecto
 1. Clona este repositorio: `git clone https://github.com/tu-usuario/the-hatch-01-brazil-energy.git`
-2. Descarga el archivo de datos bruto (`dados_brutos.xlsx`) y colócalo en la raíz del proyecto.
+2. Descarga el archivo de datos bruto (`Dados brutos.xlsx`) y colócalo en la raíz del proyecto.
 3. Abre el archivo principal `.ipynb` en tu entorno preferido.
 4. Ejecuta las celdas en orden (el notebook incluye la corrección iterativa de limpieza de datos en tiempo real).
