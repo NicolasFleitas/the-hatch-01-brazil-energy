@@ -2,6 +2,7 @@
 ## 🌐 Visualización Interactiva
 * **Ejecución en vivo:** [Ver el Notebook interactivo en Kaggle](https://www.kaggle.com/code/nicolasfleitas/optimizacion-energia-data-center-brasil)
 * **Mi Perfil:** [Conecta conmigo en Kaggle](https://www.kaggle.com/nicolasfleitas)
+
 Este proyecto corresponde a la segunda fase del primer desafío de la etapa **The Hatch** en Penguin Academy. El objetivo es analizar el histórico de consumo eléctrico nacional en Brasil para determinar la ubicación geográfica óptima y la mejor ventana de mantenimiento para un nuevo Centro de Datos, basándonos en la disponibilidad y estabilidad de la red pública.
 
 ## 🎯 Objetivos del Proyecto
