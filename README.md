@@ -19,7 +19,7 @@ Este proyecto corresponde a la segunda fase del primer desafío de la etapa **Th
 ## 📊 Hallazgos y Decisión Estratégica
 1. **Estabilidad Operativa:** A través de análisis de varianza y diagramas de caja (Boxplots), se determinó que el mes de **Julio** (invierno en el hemisferio sur) ofrece la red eléctrica más estable a nivel nacional, siendo la ventana ideal para mantenimientos de alto consumo.
 2. **Paradoja de la Baja Demanda:** El análisis inicial sugería estados amazónicos (como Acre o Roraima) por su bajo consumo. Sin embargo, aplicando conocimiento de dominio, se corrigió el modelo para evitar zonas sin infraestructura eléctrica industrial, evitando así colapsos en la red local.
-3. **El Ganador Definitivo (Pernambuco):** Al filtrar exclusivamente el Top 10 de estados con mayor infraestructura eléctrica (los "gigantes"), **Pernambuco (PE)** se posicionó como la ubicación óptima. Ofrece una red madura capaz de soportar operaciones de grado empresarial y presenta el "valle" de consumo más profundo durante la ventana operativa de invierno.
+3. **El Ganador Definitivo (Paraná):** Al filtrar exclusivamente el Top 10 de estados con mayor infraestructura eléctrica (los "gigantes"), **Paraná (PR)** se posicionó como la ubicación óptima. Ofrece una red madura capaz de soportar operaciones de grado empresarial y presenta el "valle" de consumo más profundo durante la ventana operativa de invierno.
 
 ## 🚀 Cómo ejecutar este proyecto
 1. Clona este repositorio: `git clone https://github.com/tu-usuario/the-hatch-01-brazil-energy.git`
